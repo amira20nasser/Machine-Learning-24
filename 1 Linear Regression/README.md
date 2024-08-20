@@ -23,21 +23,21 @@ implement from Scratch
 
 ## The Different Models
 
-- ### Previous Scores  
-
-![Model 1](imgs/prev.png)
+- ### Previous Scores
+  
+<img src="imgs/prev.png" alt="Model" width="400" height="300">
 
 - ###  Sleep Hours   
 
-![Model 1](imgs/sleep.png)
+<img src="imgs/sleep.png" alt="Model" width="400" height="300">
 
 - ### Hours Studied   
 
-![Model 1](imgs/studied.png)
+<img src="imgs/studied.png" alt="Model" width="400" height="300">
 
 - ### Sample Question Papers Practiced  
 
-![Model 1](imgs/practised.png)
+<img src="imgs/practiced.png" alt="Model" width="400" height="300">
 
 
 ## Conclusion
